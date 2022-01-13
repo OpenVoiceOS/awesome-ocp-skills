@@ -1,7 +1,6 @@
 # awesome-ocp-skills
 
 - ocp menu - does skill provide featured tracks for OCP menu / intent
-- media type - main media type provided by the skill
 - playback type - how does skill handle playback
 - setup.py - can skill be installed via package manager (ovos-core only)
 
