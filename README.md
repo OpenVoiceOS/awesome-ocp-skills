@@ -47,7 +47,7 @@ Some skills fit into more than one category, they are organized by their primary
 | Old World Radio | ![](https://github.com/JarbasSkills/skill-old-world-radio/blob/master/ui/old-world-radio.png?raw=true) | yes | audio player | Fallout Radio - Live 24/7 | yes | [github](https://github.com/JarbasSkills/skill-old-world-radio) | [youtube channel](https://www.youtube.com/channel/UCihCtNZnFkG62U4na9JsPJQ) |
 | TuneIn | ![](https://github.com/JarbasSkills/skill-tunein/raw/dev/ui/tunein.png?raw=true) | no | audio player | TuneIn brings together live sports, music, news, and podcasts — hear what matters most to you! | yes | [github](https://github.com/JarbasSkills/skill-tunein) | [TuneIn](https://tunein.com) |
 | Shoutcast| ![](https://github.com/JarbasSkills/skill-shoutcast/raw/dev/ui/logo.png?raw=true) | yes | audio player | Shoutcast offers you one of the largest directories with more than 50,000 stations | yes | [github](https://github.com/JarbasSkills/skill-shoutcast) | [Shoutcast](https://shoutcast.com/) |
-
+| Radio Browser | ![](https://github.com/JarbasSkills/skill-radio-browser/raw/dev/ui/logo.png?raw=true) | no | audio player | community driven effort (like wikipedia) with the aim of collecting as many internet radio and TV stations as possible | yes | [github](https://github.com/JarbasSkills/skill-radio-browser) | [radio-browser](https://www.radio-browser.info) |
 
 
 ## AudioBooks
