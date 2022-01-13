@@ -7,8 +7,12 @@
 - setup.py - can skill be installed via package manager (ovos-core only)
 
 
-| skill | ocp menu |  media type | playback type | description | setup.py |   source   |
-|:-----:|:--------:|:-----------:|:-------------:|:-----------:|:--------:|:----------:|
-|   a   |    yes   |    movies   |  video player |             |    yes   | [github]() |
-|   b   |    no    |    music    |  audio player |             |    yes   |            |
-|   c   |    yes   | documentary |   web player  |             |    yes   |            |
+| skill name | icon | ocp menu | media type | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Sci-Fi Central | ![](https://github.com/JarbasSkills/skill-scifi-central/blob/master/ui/scificentral_icon.jpg?raw=true) | yes | movies | video player | Science Fiction based Movies and Series along with Documentary Content for Ancient Aliens, UFO and Paranormal fans | yes | [github](https://github.com/JarbasSkills/skill-scifi-central) | [youtube](https://www.youtube.com/c/SFCentral/about) |
+| Western Central | ![](https://github.com/JarbasSkills/skill-western-central/blob/master/ui/westerncentral_icon.jpg?raw=true) | yes | movies | video player | Full length Western movies from the 1930s up to the present day | yes | [github](https://github.com/JarbasSkills/skill-western-central) | [youtube](https://www.youtube.com/c/WesternCentralChannel/about) |
+| World Movie Central | ![](https://github.com/JarbasSkills/skill-worldmovie-central/blob/master/ui/worldmoviecentral_icon.jpg?raw=true) | yes | movies | video player | Like your movies a bit more on the "Arty" side? selection of Award Winning independent films in multiple languages from all over the world | yes | [github](https://github.com/JarbasSkills/skill-worldmovie-central) | [youtube](https://www.youtube.com/c/WorldMovieCentral/about) |
+| V Movies | ![](https://github.com/JarbasSkills/skill-vmovies/blob/master/ui/vmovies_icon.jpg?raw=true) | yes | movies | video player| Full Movies - part of the V Channels Media Group | yes | [github](https://github.com/JarbasSkills/skill-vmovies) |[youtube](https://www.youtube.com/c/FilmTrailerZone/about) |
+| V Horror | ![](https://github.com/JarbasSkills/skill-vhorror/blob/master/ui/vhorror_icon.jpg?raw=true) | yes | movies | video player| Full Horror Movies - part of the V Channels Media Group | yes | [github](https://github.com/JarbasSkills/skill-vadrenaline) |[youtube](https://www.youtube.com/user/LordofTearsMovie/about) |
+| V Adrenaline | ![](https://github.com/JarbasSkills/skill-vadrenaline/blob/master/ui/vadrenaline_icon.jpg?raw=true) | yes | movies | video player| Full Action Movies - part of the V Channels Media Group | yes | [github](https://github.com/JarbasSkills/skill-vadrenaline) | [youtube](https://www.youtube.com/c/ViewsterTVMovies/about) |
+
