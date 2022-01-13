@@ -17,6 +17,7 @@
   * [Documentary](#documentary)
   * [Short Films](#short-films)
   * [Cartoons](#cartoons)
+  * [Silent Movies](#silent-movies)
   * [Black and White Movies](#black-and-white-movies)
   * [Movies](#movies)
   * [Video](#video)
@@ -112,6 +113,15 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Public Domain Cartoons | ![](https://github.com/JarbasSkills/skill-public-domain-cartoons/blob/master/ui/pd-cartoons.png?raw=true) | yes | video player |  public domain cartoons from around youtube | yes | [github](https://github.com/JarbasSkills/skill-public-domain-cartoons) |   |
 | r/fullcartoonsonyoutube | ![](https://github.com/JarbasSkills/skill-reddit-cartoons/raw/master/ui/logo.png?raw=true) | yes | video player |  monitor r/fullcartoonsonyoutube for cartoons | yes | [github](https://github.com/JarbasSkills/skill-reddit-cartoons) | [reddit](https://www.reddit.com/r/fullcartoonsonyoutube)  |
+
+
+
+## Silent Movies
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Silent Hall of Fame| ![](https://github.com/JarbasSkills/skill-silent-hall-of-fame/blob/master/ui/silent_hof_icon.gif?raw=true) | yes | video player | Silent Hall of Fame is the only place where we actively work to bring back from oblivion the names and legacy of formerly illustrious silent movie stars, which have made a major contribution to the industry and the world but do not have a star on the Hollywood Walk of Fame. | yes | [github](https://github.com/JarbasSkills/skill-silent-hall-of-fame) | [internet archive](https://archive.org/details/silenthalloffame) ||
 
 
 ## Black and White Movies
