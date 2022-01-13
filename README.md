@@ -6,8 +6,13 @@
 
 ## Categories 
 
+
   * [Music](#music)
   * [Internet Radio](#internet-radio)
+  * [AudioBooks](#audiobooks)
+  * [Radio Theatre](#radio-theatre)
+  * [Podcasts](#podcasts)
+  * [Motion Comics](#motion-comics)
   * [TV](#tv)
   * [Documentary](#documentary)
   * [Short Films](#short-films)
@@ -38,6 +43,44 @@
 | SomaFM | ![](https://github.com/JarbasSkills/skill-somafm/blob/master/ui/somafm.png?raw=true) | yes | audio player | SomaFM's mission is to search for and expose great new music which people may otherwise never encounter. | yes | [github](https://github.com/JarbasSkills/skill-somafm) | [SomaFM](https://somafm.com) |
 | Old World Radio | ![](https://github.com/JarbasSkills/skill-old-world-radio/blob/master/ui/old-world-radio.png?raw=true) | yes | audio player | Fallout Radio - Live 24/7 | yes | [github](https://github.com/JarbasSkills/skill-old-world-radio) | [youtube channel](https://www.youtube.com/channel/UCihCtNZnFkG62U4na9JsPJQ) |
 
+
+
+## AudioBooks
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| HorrorBabble| ![](https://github.com/JarbasSkills/skill-horrorbabble/raw/dev/res/icon/horrorbabble_icon.png?raw=true) | yes | audio player |  Audio Horror, readings of lovecraftian stories from HorrorBabble | yes | [github](https://github.com/JarbasSkills/skill-horrorbabble) |  [HorrorBabble](https://www.horrorbabble.com) |
+| Wayne June Lovecraft| ![](https://github.com/JarbasSkills/skill-wayne-june-lovecraft/raw/master/res/icon/icon.png?raw=true) | yes | audio player | Wayne June readings of H. P. Lovecraft stories | yes | [github](https://github.com/JarbasSkills/skill-wayne-june-lovecraft) |    |
+| thoughtaudio| ![](https://github.com/JarbasSkills/skill-thoughtaudio/raw/dev/ui/logo.gif?raw=true) | yes | audio player |  audio books for a selection of classic literature and philosophy titles  | yes | [github](https://github.com/JarbasSkills/skill-thoughtaudio) |  [thoughtaudio](http://thoughtaudio.com) |
+| Story Nory| ![](https://github.com/JarbasSkills/skill-storynory/raw/dev/ui/logo.png?raw=true) | yes | audio player |  for children and young adults  | yes | [github](https://github.com/JarbasSkills/skill-storynory) |  [storynory](http://storynory.com) |
+
+## Radio Theatre
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Darker Projects| ![](https://github.com/JarbasSkills/skill-darker-projects/raw/master/ui/logo.png?raw=true) | yes | audio player | audio drama company that presents to you original projects such as Autumn, Five Minute Fears, Madness, Night Terrors, Tales from the Museum, and The Falcon Banner. We also have our fan-fiction interpretations of Batman, Dr. Who, He-Man, Outer Limits, Quantum Leap, and Star Trek  | yes | [github](https://github.com/JarbasSkills/skill-darker-projects) |  [DarkerProjects](http://darkerprojects.com) |
+| Epic Horror Theatre| ![](https://github.com/JarbasSkills/skill-epic-horror-theatre/raw/dev/res/icon/icon.png?raw=true) | yes | audio player |  Radio drama adaptions of H. P. Lovecraft | yes | [github](https://github.com/JarbasSkills/skill-epic-horror-theatre) |  [ARTC](https://artc.org) |
+
+
+
+## Podcasts
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| The H.P. Lovecraft Literary Podcast| ![](https://github.com/JarbasSkills/skill-hppodcraft/raw/master/res/icon/icon.png?raw=true) | yes | audio player |  Each week, hosts Chad Fifer and Chris Lackey discuss a piece of weird fiction. Talented voice actors bring the text to life. | yes | [github](https://github.com/JarbasSkills/skill-hppodcraft) |  [HPPodcraft](https://hppodcraft.com) |
+
+
+## Motion Comics
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Lovecraft Comics | ![](https://github.com/JarbasSkills/skill-dagon/raw/master/res/icon/dagon.png?raw=true) | yes | video player | Compilation of Comic adaptations of stories by H. P. Lovecraft | yes | [github](https://github.com/JarbasSkills/skill-dagon) |   |
+
+
 ## TV
 
 
@@ -51,7 +94,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | RTDocumentaries | ![](https://github.com/JarbasSkills/skill-rt-documentaries/blob/master/ui/rt_icon.jpg?raw=true) | yes | video player|  RT Documentary offers you in-depth documentary films on topics that will leave no one indifferent | yes | [github](https://github.com/JarbasSkills/skill-rt-documentaries) |  [youtube channel](https://www.youtube.com/c/RTDocumentaryChannel/about) |
 | Cinemocracy | ![](https://github.com/JarbasSkills/skill-cinemocracy/raw/master/ui/cinemocracy.png?raw=true) | yes | video player | In the early 1940s, the United States government commissioned some of the best filmmakers to create propaganda in support of the war effort | yes | [github](https://github.com/JarbasSkills/skill-cinemocracy) | [internet archive](https://archive.org/details/cinemocracy) |
-
+| Reddit Documentaries | ![](https://github.com/JarbasSkills/skill-documentaries/blob/dev/ui/documentaries_icon.png?raw=true) | yes | video player |  monitor r/Documentaries| yes | [github](https://github.com/JarbasSkills/skill-documentaries) | [reddit](https://www.reddit.com/r/Documentaries)  |
 
 ## Short Films
 
@@ -59,8 +102,8 @@
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Dust | ![](https://github.com/JarbasSkills/skill-dust/raw/master/res/icon/dust_icon.png?raw=true) | yes | video player |  With cutting-edge short films, daring new series and award-winning feature films, DUST is the world’s premiere sci-fi destination | yes | [github](https://github.com/JarbasSkills/skill-dust) |  [Dust](https://www.watchdust.com) |
-| Omeleto | ![](https://github.com/JarbasSkills/skill-omeleto/raw/master/ui/icon.png?raw=true) | yes | video player |   the widest-reaching premier short film platform -  a place that showcases one award-winning film each day.  | yes | [github](https://github.com/JarbasSkills/skill-omeleto) |  [Omeleto](http://omeleto.com/) |
-
+| Omeleto | ![](https://github.com/JarbasSkills/skill-omeleto/raw/master/ui/icon.png?raw=true) | yes | video player |   the widest-reaching premier short film platform -  a place that showcases one award-winning film each day  | yes | [github](https://github.com/JarbasSkills/skill-omeleto) |  [Omeleto](http://omeleto.com/) |
+| TheCGBros | ![](https://github.com/JarbasSkills/skill-cgbros/blob/master/ui/cgbros_icon.jpg?raw=true) | yes | video player | We are relentless curators of the most inspirational and insightful examples in Computer Graphics Imagery from around the world | yes | [github](https://github.com/JarbasSkills/skill-cgbros) |  [youtube channel](https://www.youtube.com/c/TheCGBros/about) |
 
 ## Cartoons
 
