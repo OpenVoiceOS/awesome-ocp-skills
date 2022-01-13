@@ -7,8 +7,12 @@
 ## Categories 
 
   * [Music](#music)
+  * [Internet Radio](#internet-radio)
   * [TV](#tv)
   * [Documentary](#documentary)
+  * [Short Films](#short-films)
+  * [Cartoons](#cartoons)
+  * [Black and White Movies](#black-and-white-movies)
   * [Movies](#movies)
   * [Video](#video)
 
@@ -26,6 +30,14 @@
 | TrveKvlt | ![](https://github.com/JarbasSkills/skill-trve-kvlt/blob/dev/ui/trvekvlt_icon.png?raw=true) | yes | audio player |  Black Metal  | yes | [github](https://github.com/JarbasSkills/skill-trve-kvlt) |  |
 
 
+## Internet Radio
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| SomaFM | ![](https://github.com/JarbasSkills/skill-somafm/blob/master/ui/somafm.png?raw=true) | yes | audio player | SomaFM's mission is to search for and expose great new music which people may otherwise never encounter. | yes | [github](https://github.com/JarbasSkills/skill-somafm) | [SomaFM](https://somafm.com) |
+| Old World Radio | ![](https://github.com/JarbasSkills/skill-old-world-radio/blob/master/ui/old-world-radio.png?raw=true) | yes | audio player | Fallout Radio - Live 24/7 | yes | [github](https://github.com/JarbasSkills/skill-old-world-radio) | [youtube channel](https://www.youtube.com/channel/UCihCtNZnFkG62U4na9JsPJQ) |
+
 ## TV
 
 
@@ -38,6 +50,34 @@
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | RTDocumentaries | ![](https://github.com/JarbasSkills/skill-rt-documentaries/blob/master/ui/rt_icon.jpg?raw=true) | yes | video player|  RT Documentary offers you in-depth documentary films on topics that will leave no one indifferent | yes | [github](https://github.com/JarbasSkills/skill-rt-documentaries) |  [youtube channel](https://www.youtube.com/c/RTDocumentaryChannel/about) |
+| Cinemocracy | ![](https://github.com/JarbasSkills/skill-cinemocracy/raw/master/ui/cinemocracy.png?raw=true) | yes | video player | In the early 1940s, the United States government commissioned some of the best filmmakers to create propaganda in support of the war effort | yes | [github](https://github.com/JarbasSkills/skill-cinemocracy) | [internet archive](https://archive.org/details/cinemocracy) |
+
+
+## Short Films
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Dust | ![](https://github.com/JarbasSkills/skill-dust/raw/master/res/icon/dust_icon.png?raw=true) | yes | video player |  With cutting-edge short films, daring new series and award-winning feature films, DUST is the world’s premiere sci-fi destination | yes | [github](https://github.com/JarbasSkills/skill-dust) |  [Dust](https://www.watchdust.com) |
+| Omeleto | ![](https://github.com/JarbasSkills/skill-omeleto/raw/master/ui/icon.png?raw=true) | yes | video player |   the widest-reaching premier short film platform -  a place that showcases one award-winning film each day.  | yes | [github](https://github.com/JarbasSkills/skill-omeleto) |  [Omeleto](http://omeleto.com/) |
+
+
+## Cartoons
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Public Domain Cartoons | ![](https://github.com/JarbasSkills/skill-public-domain-cartoons/blob/master/ui/pd-cartoons.png?raw=true) | yes | video player |  public domain cartoons from around youtube | yes | [github](https://github.com/JarbasSkills/skill-public-domain-cartoons) |   |
+| r/fullcartoonsonyoutube | ![](https://github.com/JarbasSkills/skill-reddit-cartoons/raw/master/ui/logo.png?raw=true) | yes | video player |  monitor r/fullcartoonsonyoutube for cartoons | yes | [github](https://github.com/JarbasSkills/skill-reddit-cartoons) | [reddit](https://www.reddit.com/r/fullcartoonsonyoutube)  |
+
+
+## Black and White Movies
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Comedy Films| ![](https://github.com/JarbasSkills/skill-comedy-films/blob/master/ui/comedyfilms_icon.gif?raw=true) | yes | video player | "All I need to make a comedy is a park, a policeman and a pretty girl." - Charlie Chaplin  | yes | [github](https://github.com/JarbasSkills/skill-comedy-films) | [internet archive](https://archive.org/details/Comedy_Films) |
+| FilmNoir| ![](https://github.com/JarbasSkills/skill-film-noir/blob/master/ui/filmnoir_icon.gif?raw=true) | yes | video player | Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers. | yes | [github](https://github.com/JarbasSkills/skill-film-noir) | [internet archive](https://archive.org/details/Film_Noir) |
 
 
 ## Movies
@@ -50,6 +90,7 @@
 | Sumanjay Torrent Proxy | ![](https://github.com/JarbasSkills/skill-sumanjay-torrent-proxy/blob/master/ui/logo.png?raw=true) | no | skill | search and stream torrents | yes | [github](https://github.com/JarbasSkills/skill-sumanjay-torrent-proxy) |  [sumanjay.cf](https://sumanjay.cf) |
 | Abirhasan Torrent Proxy | ![](https://github.com/JarbasSkills/skill-abirhasan-torrent-proxy/blob/master/ui/tpb.svg?raw=true) | no | skill |  search and stream torrents - unofficial api for 1337x and the pirate bay | yes | [github](https://github.com/JarbasSkills/skill-abirhasan-torrent-proxy) |  [api.abirhasan.wtf](https://api.abirhasan.wtf/documentation) |
 | RARBG| ![](https://github.com/JarbasSkills/skill-rarbg/blob/master/ui/logo.png?raw=true) | no | skill |  search and stream torrents from RARBG | yes | [github](https://github.com/JarbasSkills/skill-rarbg) |  [rarbgapi](https://pypi.org/project/RarbgAPI) |
+| reddit movies | ![](https://github.com/JarbasSkills/skill-reddit-movies/raw/master/ui/logo.png?raw=true) | yes | video player |  monitor  r/fullmoviesonyoutube, r/FullLengthFilms, r/exploitation and r/FullSciFiMovies | yes | [github](https://github.com/JarbasSkills/skill-reddit-movies) | [reddit](https://www.reddit.com/r/FullLengthFilms)  |
 | Kings of Horror | ![](https://github.com/JarbasSkills/skill-kings-of-horror/blob/dev/ui/logo.png?raw=true) | yes | video player|  Full-length horror movies since 2015  | yes | [github](https://github.com/JarbasSkills/skill-kings-of-horror) |  [kingsofhorror.com](https://kingsofhorror.com) |
 | Cult Cinema Classics| ![](https://github.com/JarbasSkills/skill-ccc/blob/dev/ui/ccc_icon.jpg?raw=true) | yes | video player|  CCC is the first stop for cult film freaks, mad movie misfits, cinema aficionados, and all round tv addicts. Dive deep into all moving images the 20th century | yes | [github](https://github.com/JarbasSkills/skill-ccc) |  [youtube channel](https://www.youtube.com/c/CultCinemaClassics/about) |
 | MYT Movies| ![](https://github.com/JarbasSkills/skill-mytmovies/blob/master/ui/mytmovies_icon.jpg?raw=true) | yes | video player|  MYT Movie Network streams movies from Hollywood Blockbusters to Indie award winners and everything in between  | yes | [github](https://github.com/JarbasSkills/skill-mytmovies) |  [youtube channel](https://www.youtube.com/c/SuperheroMovieClip/about) |
@@ -72,6 +113,10 @@
 | Sci-Fi Central | ![](https://github.com/JarbasSkills/skill-scifi-central/blob/master/ui/scificentral_icon.jpg?raw=true) | yes | video player | Science Fiction Movies and Documentary Content for Ancient Aliens, UFO and Paranormal fans | yes | [github](https://github.com/JarbasSkills/skill-scifi-central) | [youtube channel](https://www.youtube.com/c/SFCentral/about) |
 | Western Central | ![](https://github.com/JarbasSkills/skill-western-central/blob/master/ui/westerncentral_icon.jpg?raw=true) | yes | video player | Full length Western movies from the 1930s up to the present day | yes | [github](https://github.com/JarbasSkills/skill-western-central) | [youtube channel](https://www.youtube.com/c/WesternCentralChannel/about) |
 | World Movie Central | ![](https://github.com/JarbasSkills/skill-worldmovie-central/blob/master/ui/worldmoviecentral_icon.jpg?raw=true) | yes | video player | Selection of Award Winning independent films in multiple languages from all over the world | yes | [github](https://github.com/JarbasSkills/skill-worldmovie-central) | [youtube channel](https://www.youtube.com/c/WorldMovieCentral/about) |
+| PicFixer Feature Films | ![](https://github.com/JarbasSkills/skill-picfixer/blob/master/ui/picfixer.png?raw=true) | yes | video player | COMEDY, DRAMA, ADVENTURE, MYSTERY, ROMANCE, SCI-FI, HORROR, WESTERNS, DOCUMENTARIES, EXPLOITATION. NOSTALGIC DOUBLE-FEATURE THEATER PROGRAMS You will find them all in this free movie loft | yes | [github](https://github.com/JarbasSkills/skill-picfixer) | [internet archive](https://archive.org/details/feature_films_picfixer) |
+| Classic Sci Fi Horror Collection | ![](https://github.com/JarbasSkills/skill-classic-scifi-horror/raw/master/ui/scifihorror.png?raw=true) | yes | video player | Science Fiction and Horror films: monsters and aliens, space and time travel, experiments gone wrong, unimagined disasters. | yes | [github](https://github.com/JarbasSkills/skill-classic-scifi-horror) | [internet archive](https://archive.org/details/SciFi_Horror) |
+| Youtube Movies | ![](https://github.com/JarbasSkills/skill-youtube-movies/raw/master/ui/logo.png?raw=true) | no | video player | search youtube for full movies | yes | [github](https://github.com/JarbasSkills/skill-youtube-movies) | [Youtube](https://www.youtube.com)|
+
 
 
 ## Video
