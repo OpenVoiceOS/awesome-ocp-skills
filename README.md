@@ -9,6 +9,7 @@
 
   * [Music](#music)
   * [TV](#tv)
+  * [Documentary](#documentary)
   * [Movies](#movies)
   * [Video](#video)
 
@@ -18,8 +19,8 @@
 
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Youtube Music| <img src='https://github.com/JarbasSkills/skill-youtube-music/blob/master/ui/ytmus.png?raw=true' width='50' height='50' style='vertical-align:bottom'/> | no | audio player | Youtube music service with official albums, singles, videos, remixes, live performances and more | yes | [github](https://github.com/JarbasSkills/skill-youtube-music) | [Youtube Music](https://music.youtube.com) |
-| Bandcamp| <img src='https://github.com/JarbasSkills/skill-bandcamp/blob/dev/ui/logo.png?raw=true' width='50' height='50' style='vertical-align:bottom'/> | no | audio player |  Music directly from the artists who make it | yes | [github](https://github.com/JarbasSkills/skill-bandcamp) | [Bandcamp](https://bandcamp.com) |
+| Youtube Music| ![](https://github.com/JarbasSkills/skill-youtube-music/blob/master/ui/ytmus.png?raw=true) | no | audio player | Youtube music service with official albums, singles, videos, remixes, live performances and more | yes | [github](https://github.com/JarbasSkills/skill-youtube-music) | [Youtube Music](https://music.youtube.com) |
+| Bandcamp| ![](https://github.com/JarbasSkills/skill-bandcamp/blob/dev/ui/logo.png?raw=true) | no | audio player |  Music directly from the artists who make it | yes | [github](https://github.com/JarbasSkills/skill-bandcamp) | [Bandcamp](https://bandcamp.com) |
 
 
 
@@ -28,25 +29,41 @@
 
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| RTP| <img src='https://camo.githubusercontent.com/cf7fb53753e63d2273ca9978f701e263deea03dfd4788016ca7212929867a561/68747470733a2f2f63646e2d696d616765732e7274702e70742f636f6d6d6f6e2f696d672f6368616e6e656c732f6c6f676f732f677261792d6e656761746976652f686f72697a6f6e74616c2f7274702e706e673f773d31303026713d3130303b' width='50' height='50' style='vertical-align:bottom'/> | yes | web player | RTP Play - Portuguese TV | yes | [github](https://github.com/JarbasSkills/skill-rtp) | [RTP Play](https://www.rtp.pt/play/direto) |
+| RTP| ![](https://camo.githubusercontent.com/cf7fb53753e63d2273ca9978f701e263deea03dfd4788016ca7212929867a561/68747470733a2f2f63646e2d696d616765732e7274702e70742f636f6d6d6f6e2f696d672f6368616e6e656c732f6c6f676f732f677261792d6e656761746976652f686f72697a6f6e74616c2f7274702e706e673f773d31303026713d3130303b) | yes | web player | RTP Play - Portuguese TV | yes | [github](https://github.com/JarbasSkills/skill-rtp) | [RTP Play](https://www.rtp.pt/play/direto) |
+
+## Documentary
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| RTDocumentaries | ![](https://github.com/JarbasSkills/skill-rt-documentaries/blob/master/ui/rt_icon.jpg?raw=true) | yes | video player|  RT Documentary offers you in-depth documentary films on topics that will leave no one indifferent | yes | [github](https://github.com/JarbasSkills/skill-rt-documentaries) |  [youtube channel](https://www.youtube.com/c/RTDocumentaryChannel/about) |
+
 
 ## Movies
 
 
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Cult Cinema Classics| ![](https://github.com/JarbasSkills/skill-ccc/blob/dev/ui/ccc_icon.jpg?raw=true) | yes | video player|  CCC is the first stop for cult film freaks, mad movie misfits, cinema aficionados, and all round tv addicts. Dive deep into all moving images the 20th century | yes | [github](https://github.com/JarbasSkills/skill-ccc) |  [youtube channel](https://www.youtube.com/c/CultCinemaClassics/about) |
+| MYT Movies| ![](https://github.com/JarbasSkills/skill-mytmovies/blob/master/ui/mytmovies_icon.jpg?raw=true) | yes | video player|  MYT Movie Network streams movies from Hollywood Blockbusters to Indie award winners and everything in between  | yes | [github](https://github.com/JarbasSkills/skill-mytmovies) |  [youtube channel](https://www.youtube.com/c/SuperheroMovieClip/about) |
+|  Deep C Digital | ![](https://github.com/JarbasSkills/skill-deepcdigital/blob/master/ui/deepcdigital_icon.jpg?raw=true) | yes | video player| Deep C Digital is one of the largest and trusted independent movie and TV distributors in the United States, providing outstanding content for today’s digital consumers  | yes | [github](https://github.com/JarbasSkills/skill-deepcdigital) |  [youtube channel](https://www.youtube.com/c/DeepCDigital/about) |
+| Film&Clips | ![](https://github.com/JarbasSkills/skill-filmsandclips/blob/master/ui/filmsandclips_icon.jpg?raw=true) | yes | video player|  The Best Free&Legal Youtube Cinema Channel  | yes | [github](https://github.com/JarbasSkills/skill-filmsandclips) |  [youtube channel](https://www.youtube.com/c/FilmandClips/about) |
+| Full Free Films | ![](https://github.com/JarbasSkills/skill-fff/blob/master/ui/fff_logo.png?raw=true) | yes | video player|  One stop shop for full length movies on Youtube, new movies added every week   | yes | [github](https://github.com/JarbasSkills/skillmytmovies) |  [youtube channel](https://www.youtube.com/c/FullLengthMoviesFFF/about) |
+| Popcornflix| ![](https://github.com/JarbasSkills/skill-popcornflix/blob/master/ui/popcornflix_icon.jpg?raw=true) | yes | video player|  Popcornflix™ is your destination to stream free full-length movies and television series | yes | [github](https://github.com/JarbasSkills/skill-popcornflix) | [popcornflix.com](https://popcornflix.com) |
+| Maverick Movies| ![](https://github.com/JarbasSkills/skill-maverickmovies/blob/master/ui/maverickmovies_icon.jpg?raw=true) | yes | video player|  Maverick Entertainment Group, an independent film distributor specializing in niche genre independent films. | yes | [github](https://github.com/JarbasSkills/skill-maverickmovies) |  [youtube channel](https://www.youtube.com/c/MaverickMovies/about) |
+| The Midnight Screening| ![](https://github.com/JarbasSkills/skill-midnightscreening/blob/master/ui/midnightscreening_icon.jpg?raw=true) | yes | video player|  New movies every week so make sure you never miss a Midnight Screening | yes | [github](https://github.com/JarbasSkills/skill-midnightscreening) |  [youtube channel](https://www.youtube.com/c/TheMidnightScreening) |
+| Mosfilm| ![](https://github.com/JarbasSkills/skill-mosfilm/blob/master/ui/mosfilm_icon.jpg?raw=true) | yes | video player|  Mosfilm's golden collection presents over 1000 Soviet and Russian films | yes | [github](https://github.com/JarbasSkills/skill-mosfilm) |  [youtube channel](https://www.youtube.com/c/Mosfilm_eng/about) |
 | V Movies | ![](https://github.com/JarbasSkills/skill-vmovies/blob/master/ui/vmovies_icon.jpg?raw=true) | yes | video player| Full Movies - part of the V Channels Media Group | yes | [github](https://github.com/JarbasSkills/skill-vmovies) |[youtube channel](https://www.youtube.com/c/FilmTrailerZone/about) |
 | V Horror | ![](https://github.com/JarbasSkills/skill-vhorror/blob/master/ui/vhorror_icon.jpg?raw=true) | yes |  video player| Full Horror Movies - part of the V Channels Media Group | yes | [github](https://github.com/JarbasSkills/skill-vadrenaline) |[youtube channel](https://www.youtube.com/user/LordofTearsMovie/about) |
 | V Adrenaline | ![](https://github.com/JarbasSkills/skill-vadrenaline/blob/master/ui/vadrenaline_icon.jpg?raw=true) | yes | video player| Full Action Movies - part of the V Channels Media Group | yes | [github](https://github.com/JarbasSkills/skill-vadrenaline) | [youtube channel](https://www.youtube.com/c/ViewsterTVMovies/about) |
 | RetroTV | ![](https://github.com/JarbasSkills/skill-retrotv/blob/master/ui/retrotv_icon.jpg?raw=true) | yes | video player| RETRO TV (Retrospective Television) -  TV Hits (And misses!) from the 50's-90's  | yes | [github](https://github.com/JarbasSkills/skill-retrotv) | [youtube channel](https://www.youtube.com/c/RETROTVCHANNEL/about) |
-| MYT Movies| ![](https://github.com/JarbasSkills/skill-mytmovies/blob/master/ui/mytmovies_icon.jpg?raw=true) | yes | video player|  MYT Movie Network streams the best movies from Hollywood Blockbusters to Indie award winners and everything in between  | yes | [github](https://github.com/JarbasSkills/skillmytmovies) |  [youtube channel](https://www.youtube.com/c/SuperheroMovieClip/about) |
-| Popcornflix| ![](https://github.com/JarbasSkills/skill-popcornflix/blob/master/ui/popcornflix_icon.jpg?raw=true) | yes | video player|  Popcornflix™ is your destination to stream free full-length movies and television series | yes | [github](https://github.com/JarbasSkills/skill-popcornflix) | [popcornflix.com](https://popcornflix.com) |
 | RavenTV | ![](https://github.com/JarbasSkills/skill-raventv/blob/master/ui/raventv_icon.jpg?raw=true) | yes | video player|  Cheesy Horror and Sci-Fi Movies as well as Classic TV Shows | yes | [github](https://github.com/JarbasSkills/skill-raventv) | [youtube channel](https://www.youtube.com/channel/UCUGjJkUlLN7dct9tGtb_Zvg/about) |
-| Star Media | ![](https://github.com/JarbasSkills/skill-starmedia/blob/master/ui/starmedia_icon.jpg?raw=true) | yes | video player| The best Russian movies and tv series, melodrama, war movies, military tv shows, new russian films, top documentary films and full movies with english subtitle. | yes | [github](https://github.com/JarbasSkills/skill-starmedia) | [youtube channel](https://www.youtube.com/c/StarMediaEN/about) |
+| Star Media | ![](https://github.com/JarbasSkills/skill-starmedia/blob/master/ui/starmedia_icon.jpg?raw=true) | yes | video player| Russian movies and tv series, melodrama, war movies, military tv shows, documentary  with english subtitles | yes | [github](https://github.com/JarbasSkills/skill-starmedia) | [youtube channel](https://www.youtube.com/c/StarMediaEN/about) |
 | Movie Central | ![](https://github.com/JarbasSkills/skill-movie-central/blob/master/ui/moviecentral_icon.jpg?raw=true) | yes | video player |  Full free movies on YouTube - owned and operated by VA Media / Valleyarm Digital Ltd.  | yes | [github](https://github.com/JarbasSkills/skill-movie-central) | [youtube channel](https://www.youtube.com/c/MovieCentral/about) |
-| Sci-Fi Central | ![](https://github.com/JarbasSkills/skill-scifi-central/blob/master/ui/scificentral_icon.jpg?raw=true) | yes | video player | Science Fiction based Movies and Series along with Documentary Content for Ancient Aliens, UFO and Paranormal fans | yes | [github](https://github.com/JarbasSkills/skill-scifi-central) | [youtube channel](https://www.youtube.com/c/SFCentral/about) |
+| Horror Central | ![](https://github.com/JarbasSkills/skill-horror-central/blob/master/ui/horrorcentral_icon.jpg?raw=true) | yes | video player |  Horror Central - your destination for horror movies | yes | [github](https://github.com/JarbasSkills/skill-horror-central) | [youtube channel](https://www.youtube.com/c/HorrorMovieChannel/about) |
+| Family Central | ![](https://github.com/JarbasSkills/skill-family-central/blob/master/ui/familycentral_icon.jpg?raw=true) | yes | video player |  Family Central - your destination for full free family movies | yes | [github](https://github.com/JarbasSkills/skill-family-central) | [youtube channel](https://www.youtube.com/channel/UCvRI1Nyvj9pAyHPzX7AviWQ/about) |
+| Sci-Fi Central | ![](https://github.com/JarbasSkills/skill-scifi-central/blob/master/ui/scificentral_icon.jpg?raw=true) | yes | video player | Science Fiction Movies and Documentary Content for Ancient Aliens, UFO and Paranormal fans | yes | [github](https://github.com/JarbasSkills/skill-scifi-central) | [youtube channel](https://www.youtube.com/c/SFCentral/about) |
 | Western Central | ![](https://github.com/JarbasSkills/skill-western-central/blob/master/ui/westerncentral_icon.jpg?raw=true) | yes | video player | Full length Western movies from the 1930s up to the present day | yes | [github](https://github.com/JarbasSkills/skill-western-central) | [youtube channel](https://www.youtube.com/c/WesternCentralChannel/about) |
-| World Movie Central | ![](https://github.com/JarbasSkills/skill-worldmovie-central/blob/master/ui/worldmoviecentral_icon.jpg?raw=true) | yes | video player | Like your movies a bit more on the "Arty" side? selection of Award Winning independent films in multiple languages from all over the world | yes | [github](https://github.com/JarbasSkills/skill-worldmovie-central) | [youtube channel](https://www.youtube.com/c/WorldMovieCentral/about) |
+| World Movie Central | ![](https://github.com/JarbasSkills/skill-worldmovie-central/blob/master/ui/worldmoviecentral_icon.jpg?raw=true) | yes | video player | Selection of Award Winning independent films in multiple languages from all over the world | yes | [github](https://github.com/JarbasSkills/skill-worldmovie-central) | [youtube channel](https://www.youtube.com/c/WorldMovieCentral/about) |
 
 
 ## Video
@@ -55,5 +72,3 @@
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Simple Youtube| <img src='https://github.com/JarbasSkills/skill-simple-youtube/blob/master/ui/ytube.jpg?raw=true' width='50' height='50' style='vertical-align:bottom'/> | no | video player | Youtube videos | yes | [github](https://github.com/JarbasSkills/skill-simple-youtube) | [Youtube](https://www.youtube.com) |
-
-
