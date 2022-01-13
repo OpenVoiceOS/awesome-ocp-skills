@@ -128,7 +128,7 @@
 
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Peerflix|   | no | video player|  Provides Torrent streaming support for other skills | yes | [github](https://github.com/JarbasSkills/skill-peerflix) |  [peerflix](https://github.com/mafintosh/peerflix) |
+| Peerflix| ![](https://github.com/JarbasSkills/skill-peerflix/raw/master/ui/magnet.png?raw=true) | no | video player|  Provides Torrent streaming support for other skills | yes | [github](https://github.com/JarbasSkills/skill-peerflix) |  [peerflix](https://github.com/mafintosh/peerflix) |
 | Kickass Torrents Proxy | ![](https://github.com/JarbasSkills/skill-kickass-torrents-proxy/blob/master/ui/logo.png?raw=true) | no | skill |  search and stream torrents from kickass torrents | yes | [github](https://github.com/JarbasSkills/skill-kickass-torrents-proxy) |  [katcr.to](https://katcr.to) |
 | Sumanjay Torrent Proxy | ![](https://github.com/JarbasSkills/skill-sumanjay-torrent-proxy/blob/master/ui/logo.png?raw=true) | no | skill | search and stream torrents | yes | [github](https://github.com/JarbasSkills/skill-sumanjay-torrent-proxy) |  [sumanjay.cf](https://sumanjay.cf) |
 | Abirhasan Torrent Proxy | ![](https://github.com/JarbasSkills/skill-abirhasan-torrent-proxy/blob/master/ui/tpb.svg?raw=true) | no | skill |  search and stream torrents - unofficial api for 1337x and the pirate bay | yes | [github](https://github.com/JarbasSkills/skill-abirhasan-torrent-proxy) |  [api.abirhasan.wtf](https://api.abirhasan.wtf/documentation) |
