@@ -20,8 +20,11 @@
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Youtube Music| ![](https://github.com/JarbasSkills/skill-youtube-music/blob/master/ui/ytmus.png?raw=true) | no | audio player | Youtube music service with official albums, singles, videos, remixes, live performances and more | yes | [github](https://github.com/JarbasSkills/skill-youtube-music) | [Youtube Music](https://music.youtube.com) |
-| Bandcamp| ![](https://github.com/JarbasSkills/skill-bandcamp/blob/dev/ui/logo.png?raw=true) | no | audio player |  Music directly from the artists who make it | yes | [github](https://github.com/JarbasSkills/skill-bandcamp) | [Bandcamp](https://bandcamp.com) |
-
+| Bandcamp| ![](https://github.com/JarbasSkills/skill-bandcamp/blob/dev/ui/logo.png?raw=true) | no | audio player |  Music directly from the artists who make it | yes | [github](https://github.com/JarbasSkills/skill-smod) | [Bandcamp](https://bandcamp.com) |
+| Soundcloud| ![](https://github.com/JarbasSkills/skill-soundcloud/blob/dev/ui/soundcloud.png?raw=true) | no | audio player |  Discover and play over 265 million music tracks. the world's largest online community of artists, bands, DJs, and audio creators  | yes | [github](https://github.com/JarbasSkills/skill-smod) | [Soundcloud](https://soundcloud.com) |
+| SMOD Nation | ![](https://github.com/JarbasSkills/skill-smod/blob/dev/ui/smod_icon.png?raw=true) | yes | audio player |  Full albums from the best up and coming bands in heavy music.  Stoner Rock, Heavy Psych, Doom Metal  | yes | [github](https://github.com/JarbasSkills/skill-smod) | [SMOD](https://www.youtube.com/c/StonedMeadowOfDoom1993) , [666MrDoom](https://www.youtube.com/c/666MrDoom)|
+| Sovietwave Radio | ![](https://github.com/JarbasSkills/skill-sovietwave/blob/dev/ui/sovietwave_icon.png?raw=true) | yes | audio player | The best of sovietwave, synthwave, chillwave and electronic music   | yes | [github](https://github.com/JarbasSkills/skill-sovietwave) |  [SovietWave Radio](https://newsovietwave.com/) |
+| TrveKvlt | ![](https://github.com/JarbasSkills/skill-trve-kvlt/blob/dev/ui/trvekvlt_icon.png?raw=true) | yes | audio player |  Black Metal  | yes | [github](https://github.com/JarbasSkills/skill-trve-kvlt) |  |
 
 
 ## TV
@@ -43,6 +46,12 @@
 
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Peerflix|   | no | video player|  Provides Torrent streaming support for other skills | yes | [github](https://github.com/JarbasSkills/skill-peerflix) |  [peerflix](https://github.com/mafintosh/peerflix) |
+| Kickass Torrents Proxy | ![](https://github.com/JarbasSkills/skill-kickass-torrents-proxy/blob/master/ui/logo.png?raw=true) | no | skill |  search and stream torrents from kickass torrents | yes | [github](https://github.com/JarbasSkills/skill-kickass-torrents-proxy) |  [katcr.to](https://katcr.to) |
+| Sumanjay Torrent Proxy | ![](https://github.com/JarbasSkills/skill-sumanjay-torrent-proxy/blob/master/ui/logo.png?raw=true) | no | skill | search and stream torrents | yes | [github](https://github.com/JarbasSkills/skill-sumanjay-torrent-proxy) |  [sumanjay.cf](https://sumanjay.cf) |
+| Abirhasan Torrent Proxy | ![](https://github.com/JarbasSkills/skill-abirhasan-torrent-proxy/blob/master/ui/tpb.svg?raw=true) | no | skill |  search and stream torrents - unofficial api for 1337x and the pirate bay | yes | [github](https://github.com/JarbasSkills/skill-abirhasan-torrent-proxy) |  [api.abirhasan.wtf](https://api.abirhasan.wtf/documentation) |
+| RARBG| ![](https://github.com/JarbasSkills/skill-rarbg/blob/master/ui/logo.png?raw=true) | no | skill |  search and stream torrents from RARBG | yes | [github](https://github.com/JarbasSkills/skill-rarbg) |  [rarbgapi](https://pypi.org/project/RarbgAPI) |
+| Kings of Horror | ![](https://github.com/JarbasSkills/skill-kings-of-horror/blob/dev/ui/logo.png?raw=true) | yes | video player|  Full-length horror movies since 2015  | yes | [github](https://github.com/JarbasSkills/skill-kings-of-horror) |  [kingsofhorror.com](https://kingsofhorror.com) |
 | Cult Cinema Classics| ![](https://github.com/JarbasSkills/skill-ccc/blob/dev/ui/ccc_icon.jpg?raw=true) | yes | video player|  CCC is the first stop for cult film freaks, mad movie misfits, cinema aficionados, and all round tv addicts. Dive deep into all moving images the 20th century | yes | [github](https://github.com/JarbasSkills/skill-ccc) |  [youtube channel](https://www.youtube.com/c/CultCinemaClassics/about) |
 | MYT Movies| ![](https://github.com/JarbasSkills/skill-mytmovies/blob/master/ui/mytmovies_icon.jpg?raw=true) | yes | video player|  MYT Movie Network streams movies from Hollywood Blockbusters to Indie award winners and everything in between  | yes | [github](https://github.com/JarbasSkills/skill-mytmovies) |  [youtube channel](https://www.youtube.com/c/SuperheroMovieClip/about) |
 |  Deep C Digital | ![](https://github.com/JarbasSkills/skill-deepcdigital/blob/master/ui/deepcdigital_icon.jpg?raw=true) | yes | video player| Deep C Digital is one of the largest and trusted independent movie and TV distributors in the United States, providing outstanding content for today’s digital consumers  | yes | [github](https://github.com/JarbasSkills/skill-deepcdigital) |  [youtube channel](https://www.youtube.com/c/DeepCDigital/about) |
@@ -72,3 +81,5 @@
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Simple Youtube| <img src='https://github.com/JarbasSkills/skill-simple-youtube/blob/master/ui/ytube.jpg?raw=true' width='50' height='50' style='vertical-align:bottom'/> | no | video player | Youtube videos | yes | [github](https://github.com/JarbasSkills/skill-simple-youtube) | [Youtube](https://www.youtube.com) |
+
+
