@@ -1,11 +1,13 @@
 # awesome-ocp-skills
 
+
 - ocp menu - does skill provide featured tracks for OCP menu / intent
 - playback type - how does skill handle playback
 - setup.py - can skill be installed via package manager (ovos-core only)
 
 ## Categories 
 
+Some skills fit into more than one category, they are organized by their primary category, ie, the category that reflects most of the content they provide
 
   * [Music](#music)
   * [Internet Radio](#internet-radio)
@@ -129,6 +131,8 @@
 
 | skill name | icon | ocp menu | playback type | description | setup.py | source | website |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| PicFixer Feature Films | ![](https://github.com/JarbasSkills/skill-picfixer/blob/master/ui/picfixer.png?raw=true) | yes | video player | COMEDY, DRAMA, ADVENTURE, MYSTERY, ROMANCE, SCI-FI, HORROR, WESTERNS, DOCUMENTARIES, EXPLOITATION. NOSTALGIC DOUBLE-FEATURE THEATER PROGRAMS You will find them all in this free movie loft | yes | [github](https://github.com/JarbasSkills/skill-picfixer) | [internet archive](https://archive.org/details/feature_films_picfixer) |
+| Classic Sci Fi Horror Collection | ![](https://github.com/JarbasSkills/skill-classic-scifi-horror/raw/master/ui/scifihorror.png?raw=true) | yes | video player | Science Fiction and Horror films: monsters and aliens, space and time travel, experiments gone wrong, unimagined disasters. | yes | [github](https://github.com/JarbasSkills/skill-classic-scifi-horror) | [internet archive](https://archive.org/details/SciFi_Horror) |
 | Comedy Films| ![](https://github.com/JarbasSkills/skill-comedy-films/blob/master/ui/comedyfilms_icon.gif?raw=true) | yes | video player | "All I need to make a comedy is a park, a policeman and a pretty girl." - Charlie Chaplin  | yes | [github](https://github.com/JarbasSkills/skill-comedy-films) | [internet archive](https://archive.org/details/Comedy_Films) |
 | FilmNoir| ![](https://github.com/JarbasSkills/skill-film-noir/blob/master/ui/filmnoir_icon.gif?raw=true) | yes | video player | Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers. | yes | [github](https://github.com/JarbasSkills/skill-film-noir) | [internet archive](https://archive.org/details/Film_Noir) |
 
@@ -166,8 +170,6 @@
 | Sci-Fi Central | ![](https://github.com/JarbasSkills/skill-scifi-central/blob/master/ui/scificentral_icon.jpg?raw=true) | yes | video player | Science Fiction Movies and Documentary Content for Ancient Aliens, UFO and Paranormal fans | yes | [github](https://github.com/JarbasSkills/skill-scifi-central) | [youtube channel](https://www.youtube.com/c/SFCentral/about) |
 | Western Central | ![](https://github.com/JarbasSkills/skill-western-central/blob/master/ui/westerncentral_icon.jpg?raw=true) | yes | video player | Full length Western movies from the 1930s up to the present day | yes | [github](https://github.com/JarbasSkills/skill-western-central) | [youtube channel](https://www.youtube.com/c/WesternCentralChannel/about) |
 | World Movie Central | ![](https://github.com/JarbasSkills/skill-worldmovie-central/blob/master/ui/worldmoviecentral_icon.jpg?raw=true) | yes | video player | Selection of Award Winning independent films in multiple languages from all over the world | yes | [github](https://github.com/JarbasSkills/skill-worldmovie-central) | [youtube channel](https://www.youtube.com/c/WorldMovieCentral/about) |
-| PicFixer Feature Films | ![](https://github.com/JarbasSkills/skill-picfixer/blob/master/ui/picfixer.png?raw=true) | yes | video player | COMEDY, DRAMA, ADVENTURE, MYSTERY, ROMANCE, SCI-FI, HORROR, WESTERNS, DOCUMENTARIES, EXPLOITATION. NOSTALGIC DOUBLE-FEATURE THEATER PROGRAMS You will find them all in this free movie loft | yes | [github](https://github.com/JarbasSkills/skill-picfixer) | [internet archive](https://archive.org/details/feature_films_picfixer) |
-| Classic Sci Fi Horror Collection | ![](https://github.com/JarbasSkills/skill-classic-scifi-horror/raw/master/ui/scifihorror.png?raw=true) | yes | video player | Science Fiction and Horror films: monsters and aliens, space and time travel, experiments gone wrong, unimagined disasters. | yes | [github](https://github.com/JarbasSkills/skill-classic-scifi-horror) | [internet archive](https://archive.org/details/SciFi_Horror) |
 | Youtube Movies | ![](https://github.com/JarbasSkills/skill-youtube-movies/raw/master/ui/logo.png?raw=true) | no | video player | search youtube for full movies | yes | [github](https://github.com/JarbasSkills/skill-youtube-movies) | [Youtube](https://www.youtube.com)|
 
 
