@@ -45,6 +45,7 @@ Some skills fit into more than one category, they are organized by their primary
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | SomaFM | ![](https://github.com/JarbasSkills/skill-somafm/blob/master/ui/somafm.png?raw=true) | yes | audio player | SomaFM's mission is to search for and expose great new music which people may otherwise never encounter. | yes | [github](https://github.com/JarbasSkills/skill-somafm) | [SomaFM](https://somafm.com) |
 | Old World Radio | ![](https://github.com/JarbasSkills/skill-old-world-radio/blob/master/ui/old-world-radio.png?raw=true) | yes | audio player | Fallout Radio - Live 24/7 | yes | [github](https://github.com/JarbasSkills/skill-old-world-radio) | [youtube channel](https://www.youtube.com/channel/UCihCtNZnFkG62U4na9JsPJQ) |
+| TuneIn | ![](https://github.com/JarbasSkills/skill-tunein/raw/dev/ui/tunein.png?raw=true) | no | audio player | TuneIn brings together live sports, music, news, and podcasts — hear what matters most to you! | yes | [github](https://github.com/JarbasSkills/skill-tunein) | [TuneIn](https://tunein.com) |
 
 
 
