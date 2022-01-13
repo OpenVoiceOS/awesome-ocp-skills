@@ -8,6 +8,7 @@
 ## Categories 
 
   * [Music](#music)
+  * [TV](#tv)
   * [Movies](#movies)
   * [Video](#video)
 
@@ -20,6 +21,12 @@
 | Youtube Music| <img src='https://github.com/JarbasSkills/skill-youtube-music/blob/master/ui/ytmus.png?raw=true' width='100' height='50' style='vertical-align:bottom'/> | no | audio player | Youtube music service with official albums, singles, videos, remixes, live performances and more | yes | [github](https://github.com/JarbasSkills/skill-youtube-music) | [Youtube Music](https://music.youtube.com) |
 
 
+## TV
+
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| RTP| <img src='https://cdn-images.rtp.pt/common/img/channels/logos/gray-negative/horizontal/rtp.png?w=100&q=100;' width='90' height='50' style='vertical-align:bottom'/> | yes | web player | RTP Play - Portuguese TV | yes | [github](https://github.com/JarbasSkills/skill-rtp) | [RTP Play](https://www.rtp.pt/play/direto) |
 
 ## Movies
 
