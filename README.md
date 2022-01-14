@@ -10,6 +10,7 @@
 Some skills fit into more than one category, they are organized by their primary category, ie, the category that reflects most of the content they provide
 
   * [Music](#music)
+  * [News](#news)
   * [Internet Radio](#internet-radio)
   * [AudioBooks](#audiobooks)
   * [Radio Theatre](#radio-theatre)
@@ -36,6 +37,14 @@ Some skills fit into more than one category, they are organized by their primary
 | SMOD Nation | ![](https://github.com/JarbasSkills/skill-smod/blob/dev/ui/smod_icon.png?raw=true) | yes | audio player |  Full albums from the best up and coming bands in heavy music.  Stoner Rock, Heavy Psych, Doom Metal  | yes | [github](https://github.com/JarbasSkills/skill-smod) | [SMOD](https://www.youtube.com/c/StonedMeadowOfDoom1993) , [666MrDoom](https://www.youtube.com/c/666MrDoom)|
 | Sovietwave Radio | ![](https://github.com/JarbasSkills/skill-sovietwave/blob/dev/ui/sovietwave_icon.png?raw=true) | yes | audio player | The best of sovietwave, synthwave, chillwave and electronic music   | yes | [github](https://github.com/JarbasSkills/skill-sovietwave) |  [SovietWave Radio](https://newsovietwave.com/) |
 | TrveKvlt | ![](https://github.com/JarbasSkills/skill-trve-kvlt/blob/dev/ui/trvekvlt_icon.png?raw=true) | yes | audio player |  Black Metal  | yes | [github](https://github.com/JarbasSkills/skill-trve-kvlt) |  |
+
+
+## News
+
+| skill name | icon | ocp menu | playback type | description | setup.py | source | website |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| News | ![](https://github.com/JarbasSkills/skill-news/raw/master/res/icon/news.png?raw=true) | yes | audio player | Latest news from selected rss feeds | yes | [github](https://github.com/JarbasSkills/skill-news) | |
+
 
 
 ## Internet Radio
