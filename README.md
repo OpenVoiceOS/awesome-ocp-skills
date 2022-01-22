@@ -109,6 +109,8 @@ Some skills fit into more than one category, they are organized by their primary
 | RTDocumentaries | ![](https://github.com/JarbasSkills/skill-rt-documentaries/blob/master/ui/rt_icon.jpg?raw=true) | yes | video player|  RT Documentary offers you in-depth documentary films on topics that will leave no one indifferent | yes | [github](https://github.com/JarbasSkills/skill-rt-documentaries) |  [youtube channel](https://www.youtube.com/c/RTDocumentaryChannel/about) |
 | Cinemocracy | ![](https://github.com/JarbasSkills/skill-cinemocracy/raw/master/ui/cinemocracy.png?raw=true) | yes | video player | In the early 1940s, the United States government commissioned some of the best filmmakers to create propaganda in support of the war effort | yes | [github](https://github.com/JarbasSkills/skill-cinemocracy) | [internet archive](https://archive.org/details/cinemocracy) |
 | Reddit Documentaries | ![](https://github.com/JarbasSkills/skill-documentaries/blob/dev/ui/documentaries_icon.png?raw=true) | yes | video player |  monitor r/Documentaries| yes | [github](https://github.com/JarbasSkills/skill-documentaries) | [reddit](https://www.reddit.com/r/Documentaries)  |
+| Documentary Central | ![](https://github.com/JarbasSkills/skill-documentary-central/blob/master/ui/documentarycentral_icon.jpg?raw=true) | yes | video player |  Documentaries | yes | [github](https://github.com/JarbasSkills/skill-documentary-central) | [youtube channel](https://www.youtube.com/c/DocoCentral/about)  |
+
 
 ## Short Films
 
