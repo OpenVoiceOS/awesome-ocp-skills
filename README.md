@@ -71,6 +71,9 @@ Some skills fit into more than one category, they are organized by their primary
 | thoughtaudio| ![](https://github.com/JarbasSkills/skill-thoughtaudio/raw/dev/ui/logo.gif?raw=true) | yes | audio player |  audio books for a selection of classic literature and philosophy titles  | yes | [github](https://github.com/JarbasSkills/skill-thoughtaudio) |  [thoughtaudio](http://thoughtaudio.com) |
 | Story Nory| ![](https://github.com/JarbasSkills/skill-storynory/raw/dev/ui/logo.png?raw=true) | yes | audio player |  for children and young adults  | yes | [github](https://github.com/JarbasSkills/skill-storynory) |  [storynory](http://storynory.com) |
 | Loyal Books| ![](https://github.com/JarbasSkills/skill-loyalbooks/raw/master/ui/logo.png?raw=true) | no | audio player | 7000+ Free Public Domain Audiobooks | yes | [github](https://github.com/JarbasSkills/skill-loyalbooks) |  [loyalbooks.com](http://www.loyalbooks.com/) |
+| Golden Audiobooks| ![](https://github.com/JarbasSkills/skill-golden-audiobooks/raw/master/ui/logo.png?raw=true) | no | audio player | 1800+ Free Audiobooks | yes | [github](https://github.com/JarbasSkills/skill-golden-audiobooks) |  [goldenaudiobooks.com/](https://goldenaudiobooks.com/) |
+
+
 
 ## Radio Theatre
 
