@@ -128,7 +128,7 @@ Some skills fit into more than one category, they are organized by their primary
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Public Domain Cartoons | ![](https://github.com/JarbasSkills/skill-public-domain-cartoons/blob/master/ui/pd-cartoons.png?raw=true) | yes | video player |  public domain cartoons from around youtube | yes | [github](https://github.com/JarbasSkills/skill-public-domain-cartoons) |   |
 | r/fullcartoonsonyoutube | ![](https://github.com/JarbasSkills/skill-reddit-cartoons/raw/master/ui/logo.png?raw=true) | yes | video player |  monitor r/fullcartoonsonyoutube for cartoons | yes | [github](https://github.com/JarbasSkills/skill-reddit-cartoons) | [reddit](https://www.reddit.com/r/fullcartoonsonyoutube)  |
-
+| Retro Toons | ![](https://github.com/JarbasSkills/skill-retrotoons/raw/master/ui/retrotoons_icon.jpg?raw=true) | yes | video player |  All of your favorite shows, movies and cartoons from iconic brands like Flinstones, Felix the Cat, Popeye, The Three Stooges, Wacky and Packy, Gumby collection, Superman Original Series, and all time movies like The Lucy Show, The Beverly Hillbillies, and more. | yes | [github](https://github.com/JarbasSkills/skill-retrotoons) | [youtube channel](https://www.youtube.com/c/RetroToonsTV/about)  |
 
 
 ## Silent Movies
