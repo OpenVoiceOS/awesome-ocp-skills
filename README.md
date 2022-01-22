@@ -37,6 +37,7 @@ Some skills fit into more than one category, they are organized by their primary
 | SMOD Nation | ![](https://github.com/JarbasSkills/skill-smod/blob/dev/ui/smod_icon.png?raw=true) | yes | audio player |  Full albums from the best up and coming bands in heavy music.  Stoner Rock, Heavy Psych, Doom Metal  | yes | [github](https://github.com/JarbasSkills/skill-smod) | [SMOD](https://www.youtube.com/c/StonedMeadowOfDoom1993) , [666MrDoom](https://www.youtube.com/c/666MrDoom)|
 | Sovietwave Radio | ![](https://github.com/JarbasSkills/skill-sovietwave/blob/dev/ui/sovietwave_icon.png?raw=true) | yes | audio player | The best of sovietwave, synthwave, chillwave and electronic music   | yes | [github](https://github.com/JarbasSkills/skill-sovietwave) |  [SovietWave Radio](https://newsovietwave.com/) |
 | TrveKvlt | ![](https://github.com/JarbasSkills/skill-trve-kvlt/blob/dev/ui/trvekvlt_icon.png?raw=true) | yes | audio player |  Black Metal  | yes | [github](https://github.com/JarbasSkills/skill-trve-kvlt) |  |
+| Underrated Albums | ![](https://github.com/JarbasSkills/skill-underrated-albums/blob/master/ui/underratedalbums_icon.jpg?raw=true) | yes | audio player | Music that deserves a wider audience. Not concentrating on any specific genre, music can be good in all forms. Expect anything from slow grinding funeral doom to poppy electronica.  | yes | [github](https://github.com/JarbasSkills/skill-underrated-albums) | [youtube channel](https://www.youtube.com/c/UnderratedAlbums/about) |
 
 
 ## News
