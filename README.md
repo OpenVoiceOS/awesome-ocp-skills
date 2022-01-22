@@ -183,7 +183,7 @@ Some skills fit into more than one category, they are organized by their primary
 | World Movie Central | ![](https://github.com/JarbasSkills/skill-worldmovie-central/blob/master/ui/worldmoviecentral_icon.jpg?raw=true) | yes | video player | Selection of Award Winning independent films in multiple languages from all over the world | yes | [github](https://github.com/JarbasSkills/skill-worldmovie-central) | [youtube channel](https://www.youtube.com/c/WorldMovieCentral/about) |
 | Youtube Movies | ![](https://github.com/JarbasSkills/skill-youtube-movies/raw/master/ui/logo.png?raw=true) | no | video player | search youtube for full movies | yes | [github](https://github.com/JarbasSkills/skill-youtube-movies) | [Youtube](https://www.youtube.com)|
 | PobreTV | ![](https://www1.pobre.tv/images/logo.png) | yes | web player | Filmes, Séries, Animes Online Grátis  | yes | [github](https://github.com/JarbasSkills/skill-pobretv) | [Pobre TV](https://pobre.tv/)|
-
+| WTvFDigitalGrindhouseDriveIn | ![](https://github.com/JarbasSkills/skill-WTvFDigitalGrindhouseDriveIn/raw/master/ui/logo.jpg?raw=true) | yes | video player| WTvF! Grindhouse and Drive-In: #1 in exploitation movies on youtube | yes | [github](https://github.com/JarbasSkills/skill-WTvFDigitalGrindhouseDriveIn) | [youtube channel](https://www.youtube.com/c/WTvFDigitalGrindhouseDriveIn/about) |
 
 
 ## Video
