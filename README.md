@@ -38,6 +38,7 @@ Some skills fit into more than one category, they are organized by their primary
 | Sovietwave Radio | ![](https://github.com/JarbasSkills/skill-sovietwave/blob/dev/ui/sovietwave_icon.png?raw=true) | yes | audio player | The best of sovietwave, synthwave, chillwave and electronic music   | yes | [github](https://github.com/JarbasSkills/skill-sovietwave) |  [SovietWave Radio](https://newsovietwave.com/) |
 | TrveKvlt | ![](https://github.com/JarbasSkills/skill-trve-kvlt/blob/dev/ui/trvekvlt_icon.png?raw=true) | yes | audio player |  Black Metal  | yes | [github](https://github.com/JarbasSkills/skill-trve-kvlt) |  |
 | Underrated Albums | ![](https://github.com/JarbasSkills/skill-underrated-albums/blob/master/ui/underratedalbums_icon.jpg?raw=true) | yes | audio player | Music that deserves a wider audience. Not concentrating on any specific genre, music can be good in all forms. Expect anything from slow grinding funeral doom to poppy electronica.  | yes | [github](https://github.com/JarbasSkills/skill-underrated-albums) | [youtube channel](https://www.youtube.com/c/UnderratedAlbums/about) |
+| Chiptune Planet | ![](https://github.com/JarbasSkills/skill-chiptune-planet/blob/master/ui/chiptuneplanet_icon.jpg?raw=true) | yes | audio player | Chiptune / 8-bit covers  | yes | [github](https://github.com/JarbasSkills/skill-chiptune-planet) | [youtube channel](https://www.youtube.com/c/8BitSound) |
 
 
 ## News
