@@ -1,9 +1,13 @@
 # awesome-ocp-skills
 
+![](OCP.png)
 
-- ocp menu - does skill provide featured tracks for OCP menu / intent
-- playback type - how does skill handle playback
-- setup.py - can skill be installed via package manager (ovos-core only)
+[OVOS Common Play](https://github.com/OpenVoiceOS/ovos-ocp-audio-plugin) is a full fledged voice media player packaged as a mycroft audio plugin.
+
+OCP handles the whole voice integration and playback functionality, it also integrates with external players via MPRIS
+
+Skills provide search results, think about them as media providers/catalogs for OCP
+
 
 ## Categories 
 
@@ -24,6 +28,12 @@ Some skills fit into more than one category, they are organized by their primary
   * [Black and White Movies](#black-and-white-movies)
   * [Movies](#movies)
   * [Video](#video)
+
+
+
+- ocp menu - does skill provide featured tracks for OCP menu / intent
+- playback type - how does skill handle playback
+- setup.py - can skill be installed via package manager (ovos-core only)
 
 
 ## Music
